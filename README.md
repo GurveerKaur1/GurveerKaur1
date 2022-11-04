@@ -22,6 +22,8 @@ In my free time I, read different tech. articles and books on different coding l
 ---
 ### My Stats
 
+https://github-readme-streak-stats.herokuapp.com/?user=GurveerKaur1
+
 ### Gurveer kaur's GitHub Stats
 \
 **Total Stars Earned:    0**
