@@ -1,4 +1,4 @@
-![plot](./assets/img/pexels-flo-dahm-699459.jpg) { width : 400px, height: 400px}
+![plot](./assets/img/pexels-flo-dahm-699459.jpg) { width=400px, height=400px}
 
 
 ## About me
