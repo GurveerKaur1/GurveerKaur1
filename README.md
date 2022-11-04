@@ -24,5 +24,5 @@ In my free time I, read different tech. articles and books on different coding l
 ![Gurveer github stats](https://github-readme-stats.vercel.app/api?username=GurveerKaur1&show_icons=true&hide_border=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurveerKaur1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurveerKaur1&show_icons=true&hide_border=true)
 
