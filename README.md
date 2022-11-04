@@ -21,19 +21,8 @@ In my free time I, read different tech. articles and books on different coding l
 
 ---
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GurveerKaur1&theme=dark&background=000000)](https://git.io/streak-stats)
+![Gurveer github stats](https://github-readme-stats.vercel.app/api?username=GurveerKaur1&show_icons=true&hide_border=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurveerKaur1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Gurveer kaur's GitHub Stats
-\
-**Total Stars Earned:    0**
-\
-**Total Commits:        34**
-\
-**Total issues:          0**
-\
-**Contributed to:        0**
-
----
-Click [here]( https://gurveerkaur1.github.io/Guessing-Game/) to play.
