@@ -1,4 +1,6 @@
-!(pexels-flo-dahm-699459.jpg){ width =60%, height = 60px }
+![plot](./assets/img/pexels-flo-dahm-699459.jpg)
+
+
 ## About me
 
 I am Gurveer kaur.
