@@ -21,12 +21,12 @@ In my free time I, read different tech. articles and books on different coding l
 
 ### Gurveer kaur's GitHub Stats
 \
-Total Stars Earned:    0
+#### Total Stars Earned:\\   0
 \
-Total Commits:        34
+#### Total Commits:\\        34
 \
-Total issues:          0
+#### Total issues:\\          0
 \
-Contributed to:        0
+#### Contributed to:\\        0
 
 Click [here]( https://gurveerkaur1.github.io/Guessing-Game/) to play.
