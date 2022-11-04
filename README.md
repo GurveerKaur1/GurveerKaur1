@@ -22,7 +22,8 @@ In my free time I, read different tech. articles and books on different coding l
 ---
 ### My Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=GurveerKaur1
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurveerKaur1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Gurveer kaur's GitHub Stats
 \
