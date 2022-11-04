@@ -1,4 +1,4 @@
-!(https:pexels-flo-dahm-699459.jpg)
+!(pexels-flo-dahm-699459.jpg)
 ## About me
 
 I am Gurveer kaur.
