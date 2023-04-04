@@ -10,8 +10,7 @@ I am a software developer student at MITT experienced with different
 software technologies. I am a person with strong soft skills such as team
 work, communication, leadership. I have Strong time-management skills
 and work ethic. Despite no prior technical education, I have committed to
-learning software development and have worked hard to receive A+ grade
-in CSS, GitHub, Relational Database, LINQ, I have also completed courses
+learning software development and have worked hard to learn CSS, GitHub, Relational Database, LINQ, I have also completed courses
 for communication skills and technical writing skills to improve these skills
 \
 \
@@ -20,10 +19,10 @@ In my free time I, read different tech. articles and books on different coding l
 
 
 ## Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/C-%239120.svg?style=for-the-badge&logo=C-sharp&style=flat")
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white")
+![CSS]<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white">
+![JavaScript]<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white">
+![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat")
 
 
 ## My Stats
