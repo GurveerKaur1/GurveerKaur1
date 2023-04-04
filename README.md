@@ -20,8 +20,8 @@ In my free time I, read different tech. articles and books on different coding l
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white")
-![CSS]<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white">
-![JavaScript]<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white">
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white")
+![JavaScript](img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white")
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat")
 
 
