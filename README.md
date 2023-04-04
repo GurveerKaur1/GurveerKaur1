@@ -19,12 +19,13 @@ In my free time I, read different tech. articles and books on different coding l
 
 
 ## Skills
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white")
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white")
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=flat")
 
 
 ## My Stats
-![Gurveer github stats](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Top Langs](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Gurveer github stats](https://github-readme-stats.vercel.app/api?username=GurveerKaur1&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurveerKaur1&show_icons=true&hide_border=true)
+
