@@ -22,8 +22,13 @@ In my free time I, read different tech. articles and books on different coding l
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/-C-B7178C?logo=C-sharp&style=plastic&logoColor=white&logoWidth=30")
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&logoWidth=30&logoHeight=50)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white")
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%Awesome-FF1B2D?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostMan](https://img.shields.io/badge/Postman-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%Studio-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Visual Sudio Code](https://img.shields.io/badge/Visual%Studio%Code-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) 
 
 
 ## My Stats
