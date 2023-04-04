@@ -26,5 +26,5 @@ In my free time I, read different tech. articles and books on different coding l
 
 
 ## My Stats
-![](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Gurveer github stats](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/GurveerKaur1/github-stats/master/generated/languages.svg#gh-dark-mode-only)
